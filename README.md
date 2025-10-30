@@ -67,3 +67,6 @@ This project is open source and available under the MIT License.
 Feel free to modify, reuse, or adapt it for your own resume or portfolio.
 
 ### Created with care by Bhavya Soni
+
+<img width="755" height="919" alt="image" src="https://github.com/user-attachments/assets/17685d58-5193-45c4-acf8-6ff9d7701741" />
+
