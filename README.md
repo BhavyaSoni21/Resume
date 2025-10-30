@@ -1,11 +1,11 @@
-# 📄 Bhavya Soni — Resume Website
+# Bhavya Soni — Resume Website
 
 A simple, responsive, and printable resume webpage built using **HTML** and **CSS**.  
 Designed for clean readability, easy customization, and one-click PDF export via browser printing.
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Responsive Design** — Adjusts seamlessly for desktop, tablet, and mobile screens.  
 - **Clean Layout** — Two-column structure separating main info and sidebar details.  
@@ -15,16 +15,16 @@ Designed for clean readability, easy customization, and one-click PDF export via
 
 ---
 
-## 🧩 Project Structure
+## Project Structure
 
-📂 resume/
+resume/
 ├── index.html # Main HTML structure
 ├── style.css # All styling and layout rules
 └── README.md # Project overview and usage instructions
 
 ---
 
-## 💡 How to Use
+## How to Use
 
 1. **Download or Clone** this repository:
    ```bash
