@@ -16,12 +16,12 @@ Designed for clean readability, easy customization, and one-click PDF export via
 ---
 
 ## Project Structure
-
-resume/
-├── index.html # Main HTML structure
-├── style.css # All styling and layout rules
-└── README.md # Project overview and usage instructions
-
+   ```bash
+   resume/
+   ├── index.html # Main HTML structure
+   ├── style.css # All styling and layout rules
+   └── README.md # Project overview and usage instructions
+   ````
 ---
 
 ## How to Use
@@ -54,8 +54,8 @@ resume/
 1. Change accent colors by editing the CSS variables at the top of style.css:
     ```bash
     :root {
-    --accent: #0f172a;   /* Accent text color */
-    --muted: #6b7280;    /* Secondary text color */
+       --accent: #0f172a;   /* Accent text color */
+       --muted: #6b7280;    /* Secondary text color */
     }
 
 2. Replace GitHub and LinkedIn links in the sidebar with your actual profiles.
