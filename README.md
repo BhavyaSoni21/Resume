@@ -51,6 +51,16 @@ Second-year Computer Engineering student at Shah & Anchor Kutchhi Engineering Co
   - Enhanced civic data visibility by designing a dashboard with real-time complaint statistics, role-based access control, and visual analytics, enabling structured monitoring of pending, resolved, and SLA-breached complaints.
   - Repo: [SmartCity-Insight](https://github.com/BhavyaSoni21/SmartCities_Insights.git)
 
+## Additional Repository Links
+- [-Humusway-Global-](https://github.com/BhavyaSoni21/-Humusway-Global-)
+- [legal-openEnv](https://github.com/BhavyaSoni21/legal-openEnv)
+- [Social_Impact_Tracker](https://github.com/BhavyaSoni21/Social_Impact_Tracker)
+- [AgriCred-Nexus-Main](https://github.com/BhavyaSoni21/AgriCred-Nexus-Main)
+- [Food-Delivery-Queue-System](https://github.com/BhavyaSoni21/Food-Delivery-Queue-System)
+- [Online-Food-Recipe-Hub](https://github.com/BhavyaSoni21/Online-Food-Recipe-Hub)
+- [AgriCred-Nexus](https://github.com/BhavyaSoni21/AgriCred-Nexus)
+- [DB-Copper_Monad-Blitz-Project_AgriFi](https://github.com/BhavyaSoni21/DB-Copper_Monad-Blitz-Project_AgriFi)
+
 ## Skills
 - **Programming:** C, Java, Python
 - **Frontend Development:** HTML, CSS, React, TypeScript, Next.js
